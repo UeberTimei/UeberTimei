@@ -31,15 +31,11 @@ I'm an Junior Frontend Developer, but also I can write backend. I have written s
 
 <img align="left" alt="GitHub" width="30px" style="background:white;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-<img align="left" alt="NPM" width="30px" style=""  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-
-<img align="left" alt="NodeJS" width="30px" style=""  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
 <img align="left" alt="Express" width="30px" style="background:white;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 
 <img align="left" alt="JS" width="30px" style=""  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
 
-<img align="left" alt="Rust" width="30px" style="background:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+<img align="left" alt="Rust" width="30px" style="background-color: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
 <img align="left" alt="Go" width="30px" style="" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 
 </div>
