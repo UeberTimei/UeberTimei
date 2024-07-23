@@ -8,7 +8,7 @@ I'm an Junior Frontend Developer, but also I can write backend. I have written s
 
 ### 🧰 Languages and Tools
 
-<div style="display:flex; flex-direction:column;">
+<div style="display:flex; flex-direction:column; gap:20px;">
 <div style="margin-bottom:0px; display: flex; flex-wrap: wrap; gap:5px; row-gap:10px">
 <img align="left" alt="JS" width="30px" style=""  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
