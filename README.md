@@ -46,7 +46,7 @@ I'm an Junior Frontend Developer, but also I can write backend. I have written s
 
 ### 📊 Stats
 
-[//] # (<a href="https://monkeytype.com/profile/UeberTimaeus">
+[//] <> (<a href="https://monkeytype.com/profile/UeberTimaeus">
 <img src="https://raw.githubusercontent.com/UeberTimei/UeberTimei/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
 </a>)
 
